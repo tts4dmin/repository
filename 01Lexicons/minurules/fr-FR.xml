@@ -10,4 +10,10 @@
     <grapheme>/</grapheme>
     <alias>barre oblique</alias>
   </lexeme>
+  
+  <lexeme>
+    <grapheme> FA</grapheme>
+    <alias>f  a</alias>
+  </lexeme>
+  
 </lexicon>
