@@ -10,4 +10,10 @@
     <grapheme>/</grapheme>
     <alias>forward slash</alias>
   </lexeme>
+  
+  <lexeme>
+    <grapheme>HE</grapheme>
+    <alias>h e</alias>
+  </lexeme>
+  
 </lexicon>
