@@ -2,10 +2,19 @@
 <!-- *************ACRONYMS************* -->
   
  <!-- ACRONYM: DESCRIPTION-->
-  <!--  
+  <!--  THE FOLLOWING EMPTY LEXEME can be used as a template to add 
+                 more lexemes to this lexicon file
+          1. Copy between <lexeme> and </lexeme> (including the lexeme tags) 
+          2. Paste the empty lexeme within the desired lexeme category. 
+	        3. Type the grapheme as it appears on the text
+          4. Type the correct pronunciation inside the alias or phoneme element
+          5. If you used an <alias>, delete the <phoneme> tags or vice versa
+  -->
+  <!--
   <lexeme>
     <grapheme></grapheme>
-    <alias></alias>
+    <alias></alias>  
+    <phoneme></phoneme>
   </lexeme>
   --> 
   
