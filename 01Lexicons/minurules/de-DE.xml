@@ -2,27 +2,27 @@
 <!-- *************ACRONYMS************* -->
 
 <!-- ACRONYM: DESCRIPTION-->
-<!--  
-<lexeme>
-  <grapheme></grapheme>
-  <alias></alias>
-</lexeme>
--->
+  <!--  
+  <lexeme>
+    <grapheme></grapheme>
+    <alias></alias>
+  </lexeme>
+  -->
     
     
 <!-- *************CRYPTIC: COMMANDS************* -->
 
-<!-- FA: Line number-->    
-<lexeme>
-  <grapheme> FA</grapheme>
-  <alias>, f a</alias>
-</lexeme>
+  <!-- FA: Line number-->    
+  <lexeme>
+    <grapheme> FA</grapheme>
+    <alias>, f a</alias>
+  </lexeme>
 
 <!-- HE: access to help pages -->
-<lexeme> 
-  <grapheme>HE</grapheme>
-  <alias>H E</alias>
-</lexeme>
+  <lexeme> 
+    <grapheme>HE</grapheme>
+    <alias>H E</alias>
+  </lexeme>
   
 <!-- *************CRYPTIC: SPECIAL CHARACTERS*************  -->
   <lexeme>
