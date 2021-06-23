@@ -33,6 +33,12 @@
     <grapheme>HE</grapheme>
     <alias>H E</alias>
   </lexeme>
+	
+<!-- PAX: Display minirules for all passengers except infants (FWR/PAX) -->
+  <lexeme> 
+    <grapheme>PAX</grapheme>
+    <alias>P A X</alias>
+  </lexeme>	
 
   
 <!-- *************CRYPTIC: SPECIAL CHARACTERS*************  -->
