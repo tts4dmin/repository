@@ -24,7 +24,13 @@
     <alias>H E</alias>
   </lexeme>
   
-<!-- *************CRYPTIC: SPECIAL CHARACTERS*************  -->
+<!-- PAX: Display minirules for all passengers except infants (FWR/PAX) -->
+  <lexeme> 
+    <grapheme>PAX</grapheme>
+    <alias>P A X</alias>
+  </lexeme>
+  
+  <!-- *************CRYPTIC: SPECIAL CHARACTERS*************  -->
   <lexeme>
     <grapheme>/</grapheme>
     <alias>barra</alias>
