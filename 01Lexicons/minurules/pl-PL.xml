@@ -24,6 +24,12 @@
     <alias>H E</alias>
   </lexeme>
   
+<!-- INF: Display minirules by infant (FWR/INF) -->
+  <lexeme> 
+    <grapheme>INF</grapheme>
+    <alias>I N F</alias>
+  </lexeme>
+  
 <!-- PAX: Display minirules for all passengers except infants (FWR/PAX) -->
   <lexeme> 
     <grapheme>PAX</grapheme>
