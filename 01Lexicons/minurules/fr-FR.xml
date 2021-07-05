@@ -1,24 +1,6 @@
 <lexicon xmlns="http://www.w3.org/2005/01/pronunciation-lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" alphabet="ipa" xml:lang="fr-FR">
 <!-- *************ACRONYMS************* -->
-  
-  <!--  THE FOLLOWING EMPTY LEXEME can be used as a template to add 
-                 more lexemes to this lexicon file
-          1. Copy between <lexeme> and </lexeme> (including the lexeme tags) 
-          2. Paste the empty lexeme within the desired lexeme category. 
-	        3. Type the grapheme as it appears on the text
-          4. Type the correct pronunciation inside the alias or phoneme element
-          5. If you used an <alias>, delete the <phoneme> tags or vice versa
-	  6. Add a comment to describe the new lexeme, using this tag: <!-- NAME: DESCRIPTION-->
-  -->
-  
-  <!-- NAME: DESCRIPTION-->	
-  <!--
-  <lexeme>
-    <grapheme></grapheme>
-    <alias></alias>  
-    <phoneme></phoneme>
-  </lexeme>
-  --> 
+
   
 <!-- *************CRYPTIC: COMMANDS************* -->
   
