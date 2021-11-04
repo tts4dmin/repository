@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="ipa" xml:lang="tr-TR" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
+  <lexeme>
+    <grapheme>Rules</grapheme>
+    <phoneme>ɾulz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Amadeus</grapheme>
+    <phoneme>amadeuɟs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Exchange</grapheme>
+    <phoneme>eks dʒeindʒ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>refund</grapheme>
+    <phoneme>ɾiɟfand</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HE</grapheme>
+    <phoneme>haiɟ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>FA</grapheme>
+    <phoneme>ef aɟ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rules'u</grapheme>
+    <phoneme>ɾulzuɟ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>RTOF</grapheme>
+    <phoneme>aɾˌ te o ef</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>reissue</grapheme>
+    <phoneme>ɾe iʃu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>no show</grapheme>
+    <phoneme>nou ʃou</phoneme>
+  </lexeme>
+</lexicon>
